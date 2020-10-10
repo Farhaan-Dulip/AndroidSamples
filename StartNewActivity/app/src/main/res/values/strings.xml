@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Start New Activity</string>
+    <string name="action">GO</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_age">Your Age</string>
+</resources>
